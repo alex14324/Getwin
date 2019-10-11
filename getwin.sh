@@ -1,8 +1,8 @@
 #!/bin/bash
 # GetWin v1.2
 # FUD Payload Generator and Listener
-# Coded by @linux_choice
-# Github: https://github.com/thelinuxchoice/getwin
+# Coded by @alex14324
+# Github: https://github.com/alex14324/getwin
 
 trap 'printf "\n";stop' 2
 
