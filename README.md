@@ -1,6 +1,5 @@
 # GetWin v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/linux_choice
+
 ### Don't copy this code without give me the credits, nerd! 
 
 FUD Win32 payload generator and listener
@@ -17,7 +16,7 @@ Usage of GetWin for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/getwin
+git clone https://github.com/alex14324/getwin
 cd getwin
 bash getwin.sh
 ```
@@ -28,7 +27,6 @@ bash getwin.sh
 sudo apt-get install mingw-w64
 ```
 
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+https://github.com/alex14324
+https://t.me/alex14324
+https://twitter.com/Alex_14324
