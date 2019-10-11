@@ -18,7 +18,7 @@ printf "     \_____/ |_____)   \__) \_____/ |_||_| |_|v1.2 \e[0m\n"
                                           
 printf "\n"
 printf "\e[1;77m.:.:\e[0m\e[1;93m FUD win32 payload generator and listener \e[0m\e[1;77m:.:.\e[0m\n"                              
-printf "\e[1;93m        .:.:\e[0m\e[1;92m Coded by:\e[0m\e[1;77m@linux_choice\e[0m \e[1;93m:.:.\e[0m\n"
+printf "\e[1;93m        .:.:\e[0m\e[1;92m Coded by:\e[0m\e[1;77m@alex14324\e[0m \e[1;93m:.:.\e[0m\n"
 printf "\n"
 printf "     \e[101m:: Warning: Attacking targets without  ::\e[0m\n"
 printf "     \e[101m:: prior mutual consent is illegal!    ::\e[0m\n"
