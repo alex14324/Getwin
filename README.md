@@ -1,6 +1,5 @@
 # GetWin v1.0
 
-### Don't copy this code without give me the credits, nerd! 
 
 FUD Win32 payload generator and listener
 
@@ -27,6 +26,7 @@ bash getwin.sh
 sudo apt-get install mingw-w64
 ```
 
+## Get me here
 https://github.com/alex14324
 https://t.me/alex14324
 https://twitter.com/Alex_14324
